@@ -1,0 +1,6 @@
+nome: Gustavo Damasceno de Campos
+
+idade: 18
+codigo: 1510
+sexo: M
+endereco: São Paulo -SP,centro
